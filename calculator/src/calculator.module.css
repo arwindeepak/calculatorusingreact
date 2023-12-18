@@ -1,0 +1,23 @@
+.container{
+    border: 1px solid rgb(124, 124, 124);
+    width: 250px;
+    height: 400px;
+}
+.input{
+    width: 220px;
+    margin: 10px;
+    height: 37px;
+
+}
+.button{
+    width: 69px;
+    height:46px ;
+    margin: 3px;
+    
+}
+.buttonContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
